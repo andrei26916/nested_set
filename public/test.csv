@@ -1,0 +1,7 @@
+id,category,parent_id
+1,electronica
+2,bit tehnika
+3,tv,1
+4,pc,1
+5,tv Sony,3
+6,ice,2

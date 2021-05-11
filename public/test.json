@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "category":"Электроника",
+        "subcategories":[
+            {
+                "id":3,
+                "category":"Телевизоры",
+                "subcategories":[
+                    {
+                        "id":5,
+                        "category":"Телевизоры Sony"
+                    }
+                ]
+            },
+            {
+                "id":4,
+                "category":"Компьютеры"
+            },
+			{
+                "id":7,
+                "category":"Компьютеры2"
+            },
+			{
+                "id":8,
+                "category":"Компьютеры4"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "category":"Техника",
+        "subcategories":[
+            {
+                "id":6,
+                "category":"Холодильники"
+            }
+        ]
+    }
+]
